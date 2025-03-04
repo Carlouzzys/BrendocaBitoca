@@ -47,12 +47,6 @@
         <img src="IMG_20231113_160552.jpg" alt="Nossa Foto 2">
         <img src="IMG_20240101_000658.jpg" alt="Nossa Foto 3">
         <p class="message">"Parei de me expressar e de dar presentes a você, mas hoje vou lhe dar algo que fique marcado e sempre que você quiser poderá voltar aqui pra matar a saudade e ficar boba cada vez mais por mim. E em poucas palavras, Eu te Amo mais que TUDO."</p>
-        <h2>Datas Especiais</h2>
-        <ul>
-            <li>💍 Noivado: 12/05/2022</li>
-            <li>❤️ Primeiro encontro: 20/07/2020</li>
-            <li>🎂 Seu aniversário: 15/09</li>
-        </ul>
     </div>
 </body>
 </html>
